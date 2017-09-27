@@ -15,3 +15,13 @@ Here is a random assortment of links that I find useful
 * [SomaFM](https://somafm.com/)
   * Commercial-free, listener-supported internet radio stations with an
     interesting selection of music
+
+## Software
+* [The Linux Kernel Archives](https://www.kernel.org/)
+  * The world's largest open source project
+* [Debian](https://www.debian.org/)
+  * The Universal Operating System. My favorite Linux distro, and what I run on
+    all my devices and virtual machines
+* [Debian Packages](https://www.debian.org/distrib/packages)
+  * All the packages in the official Debian repositories. Useful for searching
+    for the package that a specific program is in
