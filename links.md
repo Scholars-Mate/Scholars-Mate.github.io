@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: page
 title: Links
 permalink: /links/
 ---
 
-# Some Interesting Links
 Here is a random assortment of links that I find useful
 
-## Music
+# Music
 * [Music For Programming](https://musicforprogramming.net/)
   * Great for when you want to block out the outside world and get some work
     done. [Here's](/files/Music_For_Programming.m3u) a playlist of the music for
@@ -16,7 +15,7 @@ Here is a random assortment of links that I find useful
   * Commercial-free, listener-supported internet radio stations with an
     interesting selection of music
 
-## Software
+# Software
 * [The Linux Kernel Archives](https://www.kernel.org/)
   * The world's largest open source project
 * [Debian](https://www.debian.org/)
