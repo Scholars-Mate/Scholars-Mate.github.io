@@ -27,3 +27,5 @@ Here is a random assortment of links that I find useful
 * [Bash String Manipulation](http://www.tldp.org/LDP/abs/html/string-manipulation.html)
   * Don't use `sed` or `awk` when you can use bash to manipulate strings. This
     will speed up your loops by avoiding subprocesses
+* [Pro Git](https://git-scm.com/book/en/v2)
+  * A fantastic resource for learning *the* version control system to be using
