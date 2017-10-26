@@ -1,0 +1,4 @@
+/* Override font size from bootstrap.min.css */
+body {
+    font-size: 17px;
+}
